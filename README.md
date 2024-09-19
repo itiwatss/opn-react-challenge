@@ -1,6 +1,6 @@
 # Tamboon React Project
 
-This project is a React TypeScript-based application that uses `ts-loader` to run TypeScript files directly.
+This project is a React TypeScript-based application that uses `webpack` to run React and use package `ts-loader` to run Typescript files.
 
 ## Prerequisites
 
@@ -29,4 +29,9 @@ Make sure you have the following installed:
 ## Running React Project
 ```bash
    npm run client
+```
+
+## Running Jest Helper Unit Test
+```bash
+   npm run test
 ```
