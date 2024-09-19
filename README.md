@@ -6,7 +6,7 @@ This project is a React TypeScript-based application that uses `ts-loader` to ru
 
 Make sure you have the following installed:
 
-- [Node.js](https://nodejs.org/) (>= 18.x.x)
+- [Node.js](https://nodejs.org/) (>= 16.x.x <18.0.0)
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 
 ## Installation
